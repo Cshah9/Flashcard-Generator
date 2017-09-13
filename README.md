@@ -7,7 +7,7 @@ Unit 11 Assignment: Cloze Constructors - Flashcard Generator backend for a basic
   * GitHub Repo : https://github.com/Cshah9/Flashcard-Generator
   * ReadMe with Screenshots : https://github.com/Cshah9/Flashcard-Generator/blob/master/README.md
   * ClozeCard.js : https://github.com/Cshah9/Flashcard-Generator/blob/master/ClozeCard.js
-  *  * test file : https://github.com/Cshah9/Flashcard-Generator/blob/master/testcards.js
+    * test file : https://github.com/Cshah9/Flashcard-Generator/blob/master/testcards.js
 
 ## Screenshots
 
